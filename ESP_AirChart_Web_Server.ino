@@ -10,8 +10,8 @@
 
 
 // Replace with your network credentials
-const char* ssid = "PICAIORED";
-const char* password = "P1c410r3d";
+const char* ssid = "";
+const char* password = "";
 
 int analogPin = 34;
 
